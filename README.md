@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Seyed Ali Dehghan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **kenarto ecommerce redesign**
+- 🔭 I’m currently working on **kenarto ecommerce redesign** and **my personal website**
 
 - 🌱 I’m currently learning more about **Reactjs,Nodejs**
 
